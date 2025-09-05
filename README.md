@@ -77,7 +77,7 @@ Tampilan aplikasi (contoh, ganti dengan hasil emulator):
 
 ##  Demo
 Rekaman aplikasi (30–60 detik):  
-👉 [Link Demo](docs/demo.mp4)  
+👉 [Link Demo]()  
 
 ---
 
