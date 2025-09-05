@@ -70,14 +70,14 @@ lib/
 ##  Screenshot
 Tampilan aplikasi (contoh, ganti dengan hasil emulator):
 
-![Home Screen](docs/screenshot1.png)  
-![Cart Screen](docs/screenshot2.png)  
+![Home Screen](dokumentasi/screenshothome.png)  
+![Cart Screen](dokumentasi/Screenshotcart.png)  
 
 ---
 
 ##  Demo
 Rekaman aplikasi (30–60 detik):  
-👉 [Link Demo]()  
+👉 [Link Demo](dokumentasi/ScreenRecord.mp4)  
 
 ---
 
