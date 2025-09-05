@@ -67,19 +67,6 @@ lib/
 
 ---
 
-##  Screenshot
-Tampilan aplikasi (contoh, ganti dengan hasil emulator):
-
-![Home Screen](dokumentasi/screenshothome.png)  
-![Cart Screen](dokumentasi/Screenshotcart.png)  
-
----
-
-##  Demo
-Rekaman aplikasi (30–60 detik):  
-👉 [Lihat Demo](dokumentasi/ScreenRecord.mp4)
-
----
 
 ##  Cara Menjalankan
 1. Clone repo ini:
