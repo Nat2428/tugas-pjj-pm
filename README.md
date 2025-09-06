@@ -18,8 +18,8 @@ Tujuan utama: memahami perbedaan Stateless vs Stateful widget, state management,
 - Tambah barang ke keranjang.
 - Hapus barang dari keranjang.
 - Dark mode modern + animasi smooth.
-- Minimal 2 halaman (Home → Cart).
-- Validasi input (tidak bisa tambah item kosong).
+- 2 Halaman ( Home & Cart ).
+- Validasi input ( tidak bisa tambah item kosong ).
 
 ---
 
@@ -40,8 +40,8 @@ Tujuan utama: memahami perbedaan Stateless vs Stateful widget, state management,
 
 ---
 
-## 🛠 State Management
-- **Pendekatan:** `setState` (ephemeral/widget-local state).  
+##  State Management
+- **Pendekatan:** `setState` ( ephemeral/widget-local state ).  
 - **Alasan:**  
   - Sederhana dan bawaan Flutter.  
   - Cocok untuk aplikasi kecil.  
@@ -75,7 +75,7 @@ lib/
    cd flutter-cart-simple
    ```
 2. Jalankan flutter pub get.
-3. Run di emulator/device:
+3. Run di terminal:
    ```bash
    flutter run
 
